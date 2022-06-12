@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "gh-example:lib"
+
+    - path: "./test"
+      component: "gh-example:test:gh-example-test"
